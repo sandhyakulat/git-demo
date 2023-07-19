@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 helloo world!!!!
 from local 
+=======
+helloo world!!!! 
+from remote
+>>>>>>> 75d278d82caa2a13becd127cd08a5b435b92ff78
